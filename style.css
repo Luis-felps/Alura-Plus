@@ -50,10 +50,10 @@ body{
 .secundario__imagem{
     width: 80%;
 }
-    .secundario{
-        align-items: center;
-        margin: 0 10em;
-    }
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
 .descrição__titulo{
     font-weight: 700;
     font-size: 48px;
